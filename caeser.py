@@ -1,3 +1,4 @@
+#you bad at foprtnite my guy
 from __future__ import print_function
 import os
 import string
